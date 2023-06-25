@@ -18,7 +18,7 @@
   I'm always excited to connect with fellow developers and collaborate on interesting projects. Feel free to reach out to me via email or LinkedIn!
 </p>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-arora-1177131b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-arora-1177131b3" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-arora-1177131b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-arora-1177131b3" height="40" width="40" /></a>
   <a href="mailto:utarora3@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Email" height="30" width="30">
   </a>
