@@ -3,9 +3,11 @@
 
   <img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="400">
 
+ - 🔭 I’m currently pursuing **Bachelor's degree in Computer Science and Engineering**
 - 🌱 I’m currently learning **React, Hooks, TalwindCSS, Typescript**
+- 👯 I’m looking to collaborate on **Web Development Projects**
+- 📫 How to reach me ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-arora-1177131b3)
 
-- 📫 How to reach me Linkedin - **https://www.linkedin.com/in/utkarsh-arora-1177131b3**
 <h3 align="left">Tech Stack</h3>
 <p align="left">
   <strong>Frontend:</strong> React, HTML, CSS, JavaScript<br>
