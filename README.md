@@ -6,7 +6,7 @@
  - 🔭 I’m currently pursuing **Bachelor's degree in Computer Science and Engineering**
 - 🌱 I’m currently learning **React, Hooks, TalwindCSS, Typescript**
 - 👯 I’m looking to collaborate on **Web Development Projects**
-- 📫 How to reach me ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-arora-1177131b3)
+- 📫 How to reach me Linkedin - **https://www.linkedin.com/in/utkarsh-arora-1177131b3**
 
 <h3 align="left">Tech Stack</h3>
 <p align="left">
